@@ -1,3 +1,5 @@
+---
+[![](https://visitcount.itsvg.in/api?id=CodeShiran&icon=0&color=13)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on developing software applications using C# and Java, while also exploring creative projects with AI tools.<br><br>✨ I’m looking to collaborate on software development projects, particularly those involving Java, C#, and database management. I'm also interested in collaborating on AI-driven creative content.<br><br>🤝 I’m looking for help with expanding my knowledge in advanced programming concepts and improving my writing and communication skills.<br><br>🌱 I’m currently learning advanced programming techniques, software design patterns, and delving into AI and machine learning to enhance my skill set.<br><br>💬 Ask me about object-oriented programming, database management, and software design, as well as how to use AI tools for creative projects.<br><br>⚡ Fun fact: I have a deep interest in AI and love finding ways to integrate it into both technical and creative endeavors.
 
@@ -13,7 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=CodeShiran&icon=0&color=13)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
