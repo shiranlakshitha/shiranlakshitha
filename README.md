@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiran</h1>
+<h1 align="center">Hi 👋, I'm Shiran Lakshitha</h1>
 <h3 align="center">A passionate FullStack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeshiran&label=Profile%20views&color=0e75b6&style=flat" alt="codeshiran" /> </p>
