@@ -1,22 +1,23 @@
 ## 💫 About Me
 
-🚀 I'm currently building software applications using **C#** and **Java**, while also experimenting with **AI tools** for both technical and creative projects. <br> <br>
+🌐 I'm currently focused on **web development**, building dynamic and responsive websites using modern technologies. I also explore **AI tools** for creative and technical projects. <br> <br>
 
-🌱 I'm diving deeper into:
-- Advanced programming concepts
-- Software architecture and design patterns
-- AI and machine learning fundamentals <br> <br>
+🌱 I'm learning and improving in:
+- Full-stack web development (HTML, CSS, JavaScript, React, PHP, Node.js)
+- UI/UX design and responsive layouts
+- AI integration in web apps <br> <br>
 
 🤝 I’m open to collaborating on:
-- Full-stack development (Java, C#)
-- Database-driven applications
-- Creative AI content (images, video, automation)<br> <br>
+- Web development projects (frontend & backend)
+- Creative AI applications
+- Open-source contributions <br> <br>
 
-👨‍💻 My projects live here: [github.com/CodeShiran](https://github.com/CodeShiran)<br> <br>
+👨‍💻 My work lives here: [github.com/CodeShiran](https://github.com/CodeShiran) <br> <br>
 
-📬 Reach me: **shiranlakshithareal@gmail.com**<br> <br>
+📬 Reach me: **shiranlakshithareal@gmail.com** <br> <br>
 
-⚡ Fun fact: I love merging creativity with technology — especially using AI to build unique digital experiences.<br> <br>
+⚡ Fun fact: I enjoy blending web development with AI tools to create unique, interactive digital experiences. <br> <br>
+
 
 
 
