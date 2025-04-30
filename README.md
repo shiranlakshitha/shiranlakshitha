@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on developing software applications using C# and Java, while also exploring creative projects with AI tools.<br><br>🌱 I’m currently learning advanced programming techniques, software design patterns, and delving into AI and machine learning to enhance my skill set.<br><br>👯 I’m looking to collaborate on software development projects, particularly those involving Java, C#, and database management. I'm also interested in collaborating on AI-driven creative content.<br><br>🤝 I’m looking for help with expanding my knowledge in advanced programming concepts and improving my writing and communication skills.<br><br>👨‍💻 All of my projects are available at https://github.com/CodeShiran<br><br>💬 Ask me about object-oriented programming, database management, and software design, as well as how to use AI tools for creative projects.<br><br>📫 How to reach me shiranlakshithareal@gmail.com<br><br>⚡ Fun fact I have a deep interest in AI and love finding ways to integrate it into both technical and creative endeavors.
+## 💫 About Me
+
+🚀 I'm currently building software applications using **C#** and **Java**, while also experimenting with **AI tools** for both technical and creative projects. <br> <br>
+
+🌱 I'm diving deeper into:
+- Advanced programming concepts
+- Software architecture and design patterns
+- AI and machine learning fundamentals <br> <br>
+
+🤝 I’m open to collaborating on:
+- Full-stack development (Java, C#)
+- Database-driven applications
+- Creative AI content (images, video, automation)<br> <br>
+
+👨‍💻 My projects live here: [github.com/CodeShiran](https://github.com/CodeShiran)<br> <br>
+
+📬 Reach me: **shiranlakshithareal@gmail.com**<br> <br>
+
+⚡ Fun fact: I love merging creativity with technology — especially using AI to build unique digital experiences.<br> <br>
+
 
 
 ## 🌐 Socials:
