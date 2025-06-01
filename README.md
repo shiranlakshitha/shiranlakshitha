@@ -53,17 +53,32 @@
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeShiran/CodeShiran/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeShiran/CodeShiran/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/CodeShiran/CodeShiran/output/github-snake.svg" />
+  </picture>
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeShiran&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeShiran&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShiran&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=CodeShiran&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="center">📊 GitHub Stats 📈</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=CodeShiran&count_private=true&theme=react&border_radius=10" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=react" />
+</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShiran&theme=react" />
+  <br/>
+</div>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Drop+me+a+line+anytime." alt="Typing SVG" /></a>
+</h3>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
