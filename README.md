@@ -61,7 +61,7 @@
 
 <h2 align="center">📊 GitHub Stats 📈</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=CodeShiran&count_private=true&theme=react&border_radius=10" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=CodeShiran&count_private=true&theme=react&border_radius=10" />
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=dark"
@@ -71,9 +71,10 @@
     srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=react" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=react" />
 </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShiran&theme=react" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShiran&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats=10" />
   <br/>
 </div>
 
