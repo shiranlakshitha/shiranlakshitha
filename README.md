@@ -16,7 +16,7 @@
    UI/UX design and responsive layouts
    AI integration in web apps <br> <br>
   
-  🤝 I’m open to collaborating on:
+  🤝 I'm open to collaborating on:
    Web development projects (frontend & backend)
    Creative AI applications
    Open-source contributions <br> <br>
@@ -37,7 +37,6 @@
   </a>
 </div>
 
-
 <h2 align="center">🛠️ Languages-Frameworks-Tools ⚙️</h2>
   
 <div align="center">
@@ -50,7 +49,6 @@
   </a>
 </div>
 
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeShiran/CodeShiran/output/github-snake-dark.svg" />
@@ -60,23 +58,33 @@
 </div>
 
 <h2 align="center">📊 GitHub Stats 📈</h2>
+
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=CodeShiran&count_private=true&theme=react&border_radius=10" />
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=react" />
-</picture>
-  <br/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShiran&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats=10" />
-  <br/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=CodeShiran&count_private=true&theme=react&border_radius=10&border=61dafb" alt="GitHub Streak" />
+      </td>
+      <td>
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=dark&border_radius=10&border_color=61dafb"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&border_radius=10&border_color=0366d6"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=react&border_radius=10&border_color=61dafb" alt="GitHub Stats" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShiran&theme=react&border_radius=10&border_color=61dafb&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3 align="center">
