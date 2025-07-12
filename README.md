@@ -37,6 +37,22 @@
   </a>
 </div>
 
+<br/>
+
+<!-- Live Coding Animation with Text in One Row -->
+<div align="center">
+  <table style="width: 100%; max-width: 800px; border-collapse: separate; border-spacing: 0; margin: 20px auto;">
+    <tr>
+      <td style="width: 70%; padding: 10px; vertical-align: middle;">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" style="width: 100%; border-radius: 10px;" />
+      </td>
+      <td style="width: 30%; padding: 10px; vertical-align: middle; text-align: center;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=200&height=150&lines=const+coder+%3D+%7B;++name%3A+'Shiran',;++love%3A+'JavaScript',;++skills%3A+%5B;+++++'React',;+++++'Node.js',;+++++'TypeScript';++%5D,;++goal%3A+'Build+Amazing';+++++++++'Apps';%7D;" alt="Code Text" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h2 align="center">🛠️ Languages-Frameworks-Tools ⚙️</h2>
   
 <div align="center">
@@ -60,12 +76,12 @@
 <h2 align="center">📊 GitHub Stats 📈</h2>
 
 <div align="center">
-  <table style="border-collapse: separate; border-spacing: 15px; background: linear-gradient(135deg, rgba(30, 41, 59, 0.05), rgba(15, 23, 42, 0.03)); padding: 25px; border-radius: 20px; box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1); border: 2px solid rgba(97, 218, 251, 0.2); margin: 20px auto;">
+  <table style="border-collapse: separate; border-spacing: 15px; background: linear-gradient(135deg, rgba(30, 41, 59, 0.05), rgba(15, 23, 42, 0.03)); padding: 25px; border-radius: 20px; box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1); border: 2px solid rgba(97, 218, 251, 0.2); margin: 20px auto; width: 100%; max-width: 900px;">
     <tr>
-      <td style="background: rgba(255, 255, 255, 0.02); border-radius: 15px; padding: 12px; border: 2px solid rgba(97, 218, 251, 0.3); box-shadow: 0 6px 20px rgba(97, 218, 251, 0.15);">
-        <img src="https://streak-stats.demolab.com/?user=CodeShiran&count_private=true&theme=react&border_radius=12&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=FFA500&currStreakLabel=C9D1D9" alt="GitHub Streak" style="border-radius: 12px;" />
+      <td style="background: rgba(255, 255, 255, 0.02); border-radius: 15px; padding: 12px; border: 2px solid rgba(97, 218, 251, 0.3); box-shadow: 0 6px 20px rgba(97, 218, 251, 0.15); width: 50%;">
+        <img src="https://streak-stats.demolab.com/?user=CodeShiran&count_private=true&theme=react&border_radius=12&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=FFA500&currStreakLabel=C9D1D9" alt="GitHub Streak" style="border-radius: 12px; width: 100%;" />
       </td>
-      <td style="background: rgba(255, 255, 255, 0.02); border-radius: 15px; padding: 12px; border: 2px solid rgba(97, 218, 251, 0.3); box-shadow: 0 6px 20px rgba(97, 218, 251, 0.15);">
+      <td style="background: rgba(255, 255, 255, 0.02); border-radius: 15px; padding: 12px; border: 2px solid rgba(97, 218, 251, 0.3); box-shadow: 0 6px 20px rgba(97, 218, 251, 0.15); width: 50%;">
         <picture>
           <source
             srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=github_dark&border_radius=12&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB"
@@ -75,13 +91,16 @@
             srcset="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=default&border_radius=12&hide_border=true&bg_color=FFFFFF&title_color=0366D6&text_color=24292E&icon_color=0366D6"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=github_dark&border_radius=12&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB" alt="GitHub Stats" style="border-radius: 12px;" />
+          <img src="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&theme=github_dark&border_radius=12&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&icon_color=61DAFB" alt="GitHub Stats" style="border-radius: 12px; width: 100%;" />
         </picture>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" style="background: rgba(255, 255, 255, 0.02); border-radius: 15px; padding: 12px; border: 2px solid rgba(97, 218, 251, 0.3); box-shadow: 0 6px 20px rgba(97, 218, 251, 0.15);">
-        <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShiran&theme=github_dark&border_radius=12&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" style="border-radius: 12px;" />
+      <td style="background: rgba(255, 255, 255, 0.02); border-radius: 15px; padding: 12px; border: 2px solid rgba(97, 218, 251, 0.3); box-shadow: 0 6px 20px rgba(97, 218, 251, 0.15); width: 70%; vertical-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShiran&theme=github_dark&border_radius=12&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&layout=compact" alt="Top Languages" style="border-radius: 12px; width: 100%;" />
+      </td>
+      <td style="background: rgba(255, 255, 255, 0.02); border-radius: 15px; padding: 12px; border: 2px solid rgba(97, 218, 251, 0.3); box-shadow: 0 6px 20px rgba(97, 218, 251, 0.15); width: 30%; vertical-align: center; text-align: center;">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Live Coding" style="border-radius: 12px; width: 100%; max-width: 200px; height: auto;" />
       </td>
     </tr>
   </table>
