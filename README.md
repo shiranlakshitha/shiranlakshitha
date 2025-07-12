@@ -73,6 +73,32 @@
   </picture>
 </div>
 
+<!-- GitHub Activity Chart -->
+<h2 align="center">⚡ Coding Activity</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <div style="background: rgba(255, 255, 255, 0.02); border-radius: 15px; padding: 15px; border: 2px solid rgba(97, 218, 251, 0.3); box-shadow: 0 6px 20px rgba(97, 218, 251, 0.15); max-width: 900px; margin: 0 auto;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeShiran&theme=react-dark&bg_color=0D1117&color=C9D1D9&line=61DAFB&point=61DAFB&area=true&hide_border=true&radius=12" alt="Coding Activity Graph" style="border-radius: 12px; width: 100%;" />
+  </div>
+</div>
+
+<!-- Live Status Badges -->
+<div align="center" style="margin: 20px 0;">
+  <table style="width: 100%; max-width: 700px; border-collapse: separate; border-spacing: 10px; margin: 0 auto;">
+    <tr>
+      <td style="background: linear-gradient(135deg, #0D1117, #161B22); border-radius: 15px; padding: 15px; border: 2px solid rgba(97, 218, 251, 0.3); box-shadow: 0 6px 20px rgba(97, 218, 251, 0.15); text-align: center; width: 33.33%;">
+        <img src="https://img.shields.io/badge/🕒%20Current%20Time-2025--07--12%2005:16%20UTC-61DAFB?style=for-the-badge&labelColor=0D1117" alt="Current Time" style="border-radius: 8px;" />
+      </td>
+      <td style="background: linear-gradient(135deg, #0D1117, #161B22); border-radius: 15px; padding: 15px; border: 2px solid rgba(255, 107, 107, 0.3); box-shadow: 0 6px 20px rgba(255, 107, 107, 0.15); text-align: center; width: 33.33%;">
+        <img src="https://img.shields.io/badge/💻%20Coding%20Since-2023-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Coding Since" style="border-radius: 8px;" />
+      </td>
+      <td style="background: linear-gradient(135deg, #0D1117, #161B22); border-radius: 15px; padding: 15px; border: 2px solid rgba(34, 197, 94, 0.3); box-shadow: 0 6px 20px rgba(34, 197, 94, 0.15); text-align: center; width: 33.33%;">
+        <img src="https://img.shields.io/badge/🔥%20Status-Actively%20Coding-22C55E?style=for-the-badge&labelColor=0D1117" alt="Coding Status" style="border-radius: 8px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h2 align="center">📊 GitHub Stats 📈</h2>
 
 <div align="center">
