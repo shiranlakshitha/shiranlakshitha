@@ -82,9 +82,16 @@
 </table>
 
 ### 💻 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CodeShiran&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="CodeShiran's Top Languages" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CodeShiran&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="CodeShiran's Top Languages" width="100%" />
+    </td>
+    <td width="50%" valign="center">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer Animation" width="100%" height="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 📊 Contribution Activity
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeShiran&custom_title=CodeShiran's%20Contribution%20Graph&bg_color=0D1117&color=61dafb&line=61dafb&point=61dafb&area_color=161b22&title_color=c9d1d9&area=true&border_radius=10" alt="CodeShiran's Activity Graph" />
