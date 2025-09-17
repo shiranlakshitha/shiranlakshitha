@@ -1,6 +1,6 @@
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CodeShiran.visitor-badge&left_text=Profile%20Views&right_color=blueviolet&left_color=gray)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shiranlakshitha.visitor-badge&left_text=Profile%20Views&right_color=blueviolet&left_color=gray)
 
 </div>
 
@@ -14,10 +14,10 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/CodeShiran">
-    <img src="https://img.shields.io/github/followers/CodeShiran?label=Followers&style=social" alt="GitHub Badge">
+  <a href="https://github.com/shiranlakshitha">
+    <img src="https://img.shields.io/github/followers/shiranlakshitha?label=Followers&style=social" alt="GitHub Badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=CodeShiran&style=flat-square&color=blue" alt="">
+  <img src="https://komarev.com/ghpvc/?username=shiranlakshitha&style=flat-square&color=blue" alt="">
 </div>
 
 ---
@@ -73,10 +73,10 @@
 <table>
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CodeShiran&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="CodeShiran's GitHub Stats" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=shiranlakshitha&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="CodeShiran's GitHub Stats" />
     </td>
     <td>
-      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeShiran&theme=dark&background=0d1117&border=61dafb&stroke=61dafb&ring=61dafb&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=61dafb&dates=8b949e&hide_border=true&border_radius=10" alt="CodeShiran's Streak Stats" />
+      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=shiranlakshitha&theme=dark&background=0d1117&border=61dafb&stroke=61dafb&ring=61dafb&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=61dafb&dates=8b949e&hide_border=true&border_radius=10" alt="CodeShiran's Streak Stats" />
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CodeShiran&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="CodeShiran's Top Languages" width="100%" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shiranlakshitha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="shiranlakshitha's Top Languages" width="100%" />
     </td>
     <td width="50%" valign="center">
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer Animation" width="100%" height="100%" />
@@ -94,7 +94,7 @@
 </table>
 
 ### 📊 Contribution Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeShiran&custom_title=CodeShiran's%20Contribution%20Graph&bg_color=0D1117&color=61dafb&line=61dafb&point=61dafb&area_color=161b22&title_color=c9d1d9&area=true&border_radius=10" alt="CodeShiran's Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiranlakshitha&custom_title=shiranlakshitha's%20Contribution%20Graph&bg_color=0D1117&color=61dafb&line=61dafb&point=61dafb&area_color=161b22&title_color=c9d1d9&area=true&border_radius=10" alt="shiranlakshitha's Activity Graph" />
 
 </div>
 
