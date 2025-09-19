@@ -73,10 +73,10 @@
 <table>
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=shiranlakshitha&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="CodeShiran's GitHub Stats" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=shiranlakshitha&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="shiranlaskthitha's GitHub Stats" />
     </td>
     <td>
-      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=shiranlakshitha&theme=dark&background=0d1117&border=61dafb&stroke=61dafb&ring=61dafb&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=61dafb&dates=8b949e&hide_border=true&border_radius=10" alt="CodeShiran's Streak Stats" />
+      <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=shiranlakshitha&theme=dark&background=0d1117&border=61dafb&stroke=61dafb&ring=61dafb&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=61dafb&dates=8b949e&hide_border=true&border_radius=10" alt="shiranlakshitha's Streak Stats" />
     </td>
   </tr>
 </table>
