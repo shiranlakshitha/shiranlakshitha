@@ -39,11 +39,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,typescript,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,typescript,react,nextjs" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
   </a>
 </div>
 
