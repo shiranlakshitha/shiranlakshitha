@@ -85,7 +85,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shiranlakshitha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="shiranlakshitha's Top Languages" width="100%" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shiranlakshitha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5" alt="shiranlakshitha's Top Languages" width="100%" />
     </td>
     <td width="50%" valign="center">
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer Animation" width="100%" height="100%" />
