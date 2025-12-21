@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,typescript,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,express,typescript,react,nextjs,dotnet" />
   </a>
   <br />
   <a href="https://skillicons.dev">
