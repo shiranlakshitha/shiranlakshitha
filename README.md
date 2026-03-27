@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Things!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;DevOps+Enthusiast;Creative+Problem+Solver;Always+Learning!;" />
 </h3>
 
 <div align="center">
@@ -24,14 +24,14 @@
 
 ## 🚀 About Me
 
-**A passionate Full Stack Developer from Sri Lanka 🇱🇰**
+**A passionate Full Stack Developer & DevOps Enthusiast from Sri Lanka 🇱🇰**
 
-**🔭 Currently working on:** Full Stack Web Development with React and Node.js  
-**🌱 Learning:** AI Integration & Cloud Technologies  
-**👯 Looking to collaborate on:** Open Source Projects  
-**💬 Ask me about:** JavaScript, React, Node.js, or Full Stack Development  
+**🔭 Currently working on:** Full Stack Web Development and building automated CI/CD pipelines  
+**🌱 Learning:** Cloud Architectures (AWS & Azure), Kubernetes, and Infrastructure as Code (Terraform)  
+**👯 Looking to collaborate on:** Open Source Projects & DevOps Tooling  
+**💬 Ask me about:** JavaScript, React, Node.js, or DevOps Automation  
 **📫 How to reach me:** shiranlakshithareal@gmail.com  
-**⚡ Fun fact:** I debug with console.log() and I'm not ashamed! 😄
+**⚡ Fun fact:** I debug with console.log() but deploy with GitHub Actions! 😄
 
 ---
 
@@ -45,6 +45,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
   </a>
+  <br />
+  <!-- Added DevOps Tools including Azure -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git,githubactions,terraform,bash" />
+  </a>
 </div>
 
 <br/>
@@ -57,7 +62,7 @@
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%" />
       </td>
       <td width="30%">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=200&height=150&lines=const+coder+%3D+%7B;++name%3A+'Shiran',;++love%3A+'JavaScript',;++skills%3A+%5B;+++++'React',;+++++'Node.js',;+++++'TypeScript';++%5D,;++goal%3A+'Build+Amazing';+++++++++'Apps';%7D;" alt="Code Text" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=200&height=150&lines=const+coder+%3D+%7B;++name%3A+'Shiran',;++love%3A+'Automation',;++skills%3A+%5B;+++++'React',;+++++'Docker',;+++++'AWS+%26+Azure';++%5D,;++goal%3A+'Build+%26+Scale';+++++++++'Apps';%7D;" alt="Code Text" />
       </td>
     </tr>
   </table>
@@ -127,13 +132,13 @@
 
 <div align="center">
 
-🔭 Building responsive web applications with **React** and **Node.js**  
-🌱 Learning **Cloud Technologies** and **DevOps practices**  
-👯 Looking to collaborate on **Open Source Projects**  
-🤔 Exploring **AI/ML integration** in web development  
-💬 Ask me about **JavaScript, React, or Full Stack Development**  
+🔭 Building scalable web applications and **automated CI/CD pipelines**  
+🌱 Learning **Advanced Cloud Architectures (AWS & Azure)** and **Infrastructure as Code (Terraform)**  
+👯 Looking to collaborate on **Open Source Projects & Cloud Integrations**  
+🤔 Exploring **Kubernetes orchestration** and containerization  
+💬 Ask me about **Full Stack Development, DevOps, or CI/CD**  
 📫 Reach me at: **shiranlakshithareal@gmail.com**  
-⚡ Fun fact: **I think coding is the closest thing we have to magic! ✨**
+⚡ Fun fact: **I think coding is the closest thing we have to magic, and automation is the spellbook! ✨**
 
 </div>
 
@@ -178,6 +183,6 @@
 
 <div align="center">
   
-**💙 Thanks for visiting my profile! Let's build something amazing together! 💙**
+**💙 Thanks for visiting my profile! Let's build and deploy something amazing together! 💙**
 
 </div>
