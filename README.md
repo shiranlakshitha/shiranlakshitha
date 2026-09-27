@@ -119,8 +119,8 @@
 
 | Goal | Progress | Target |
 |------|----------|--------|
-| 🌟 GitHub Stars | ![](https://img.shields.io/badge/dynamic/json?color=yellow&label=%E2%AD%90&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FCodeShiran) | 100 ⭐ |
-| 👥 Followers | ![](https://img.shields.io/github/followers/CodeShiran?style=social) | 500 👥 |
+| 🌟 GitHub Stars | ![](https://img.shields.io/badge/dynamic/json?color=yellow&label=%E2%AD%90&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fshiranlakshitha) | 100 ⭐ |
+| 👥 Followers | ![](https://img.shields.io/github/followers/shiranlakshitha?style=social) | 500 👥 |
 | 🏆 Contributions | ![](https://img.shields.io/badge/2025-400%2B-green) | 500+ 🎯 |
 | 📚 Repositories | ![](https://img.shields.io/badge/Public-20%2B-blue) | 30+ 📦 |
 
@@ -151,7 +151,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shiranlakshithareal@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiran-lakshitha-b95324314/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/94785942488)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeShiran)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiranlakshitha)
 
 </div>
 
